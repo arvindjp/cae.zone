@@ -1,7 +1,7 @@
 # Site settings
 title: CAE Zone
 subtitle: All things CFD !!!
-email: youremailaddress@gmail.com
+email: arvind@cae.zone
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -16,14 +16,14 @@ phone: (716) 555-5555
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url:https://github.com/arvindjp
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: 
+linkedin_url:https://www.linkedin.com/in/arvindjayaprakash 
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:https://twitter.com/cae.zone 
 
 # Build settings
 markdown: kramdown
