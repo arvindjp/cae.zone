@@ -3,7 +3,7 @@ title: CAE Zone
 subtitle: All things CFD !!!
 email: arvind@cae.zone
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/cae.zone" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
